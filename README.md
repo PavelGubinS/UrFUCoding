@@ -8,11 +8,8 @@
 
 ## Мои интересы 
 -   Нейронки
-    :brain:
 -   Вроде как пою
-    :microphone:
 -   Обожаю Baldur's Gate 3
-    :video_game:
 
 ## Мои навыки :muscle:
 
