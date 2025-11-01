@@ -12,7 +12,7 @@
 -   Вроде как пою и слушаю
 -   Обожаю пошаговые тактики, особенно BG3 и DD2, любитель Civilization 6)
 -   ПК и его содержимое)
--   Data Science and Ml engineering
+-   Data Science and Ml engineering, LLM
 
 ## Мои навыки :muscle:
 
