@@ -10,7 +10,7 @@
 ## Мои интересы 
 -   Обожаю пошаговые тактики, особенно BG3 и DD2, любитель Civilization 6 и т.п.
 -   ПК и его содержимое)
--   Data Science and Ml engineering, LLM
+-   Data Science and Ml engineering
 
 ## Мои навыки :muscle:
 
