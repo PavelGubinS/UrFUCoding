@@ -15,7 +15,7 @@
 ## Мои навыки :muscle:
 
 1.  Читаю буквы и считаю цифры (math skills)
-2.  Python и немного веб, C#/C++. Ещё обожаю LLM, LM Studio и Ollama+Docker
+2.  Python и веб(CSS,HTML), C#/C++. Ещё обожаю LLM, LM Studio и Ollama+Docker
 3.  Хорошо играю в Baldur's Gate 3
     - За Жреца
     - За Воина
