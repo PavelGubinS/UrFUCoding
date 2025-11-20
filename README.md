@@ -8,7 +8,7 @@
 Люблю код и юмор :)
 
 ## Мои интересы 
--   Обожаю пошаговые тактики, особенно BG3 и DD2, любитель Civilization 6.
+-   Обожаю пошаговые тактики, особенно Baldur’s Gate 3 и Darkest Dungeon II, любитель Civilization 6.
 -   ПК
 -   Data Science and Ml engineering
 
