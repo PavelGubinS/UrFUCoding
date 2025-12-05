@@ -8,7 +8,9 @@
 
 ## Мои интересы 
 - Обожаю пошаговые тактики, особенно Baldur’s Gate 3 и Darkest Dungeon II, любитель Civilization 6
+- 
 - ПК и всё что с ним связано
+- 
 - Data Science and Ml engineering
 
 ## Мои навыки :muscle:
